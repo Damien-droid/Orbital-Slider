@@ -1,0 +1,7 @@
+{
+  "name": "Orbital Slides - Circular Presentation Software",
+  "description": "A sophisticated circular presentation tool inspired by non-linear storytelling, featuring smooth zooming transitions along a geometric path.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
